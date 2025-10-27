@@ -17,9 +17,9 @@ Neste processo eu aprendi:
 
 ## REGRAS DO DESAFIO
 - [X] Realizar um fork do repositório do desafio
-- [ ] Criar testes de unidade para métodos principais
-- [ ] Executar testes de unidade do projeto
-- [ ] Ter 100% dos testes passando
+- [X] Criar testes de unidade para métodos principais
+- [X] Executar testes de unidade do projeto
+- [X] Ter 100% dos testes passando
 
 ## Sobre o Caça aos Bugs
 O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias para aplicações em cenários reais. Durante os 9 desafios desta jornada, os participantes são submetidos ao aprendizado e prática de Depuração de Aplicações, Testes de Unidade, Testes E2E, Melhorias de UI, Melhorias de Performance, Deployment e Infraestrutura,
