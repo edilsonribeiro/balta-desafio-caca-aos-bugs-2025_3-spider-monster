@@ -1,6 +1,3 @@
 namespace BugStore.Responses.Customers;
 
-public class Update
-{
-    
-}
+public record Update(Guid Id, string Name, string Email, string Phone, DateTime BirthDate);

@@ -1,6 +1,3 @@
 namespace BugStore.Responses.Products;
 
-public class Get
-{
-    
-}
+public record Get(Guid Id, string Title, string Description, string Slug, decimal Price);

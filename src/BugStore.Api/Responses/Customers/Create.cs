@@ -1,6 +1,3 @@
 namespace BugStore.Responses.Customers;
 
-public class Create
-{
-    
-}
+public record Create(Guid Id, string Name, string Email, string Phone, DateTime BirthDate);

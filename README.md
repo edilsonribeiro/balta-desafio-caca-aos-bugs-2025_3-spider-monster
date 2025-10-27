@@ -16,7 +16,7 @@ Neste processo eu aprendi:
 * ✅ Código Limpo
 
 ## REGRAS DO DESAFIO
-- [ ] Realizar um fork do repositório do desafio
+- [X] Realizar um fork do repositório do desafio
 - [ ] Criar testes de unidade para métodos principais
 - [ ] Executar testes de unidade do projeto
 - [ ] Ter 100% dos testes passando

@@ -2,5 +2,8 @@ namespace BugStore.Requests.Customers;
 
 public class Update
 {
-    
+    public required string Name { get; init; }
+    public required string Email { get; init; }
+    public required string Phone { get; init; }
+    public DateTime BirthDate { get; init; }
 }

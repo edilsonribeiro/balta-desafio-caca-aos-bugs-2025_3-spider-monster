@@ -1,6 +1,3 @@
 namespace BugStore.Requests.Customers;
 
-public class GetById
-{
-    
-}
+public record GetById(Guid Id);

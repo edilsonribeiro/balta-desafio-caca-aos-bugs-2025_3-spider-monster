@@ -1,6 +1,3 @@
 namespace BugStore.Requests.Customers;
 
-public class Get
-{
-    
-}
+public record Get(int Page = 1, int PageSize = 25);

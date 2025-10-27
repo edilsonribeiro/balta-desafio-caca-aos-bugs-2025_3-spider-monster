@@ -1,6 +1,3 @@
 namespace BugStore.Requests.Products;
 
-public class Delete
-{
-    
-}
+public record Delete(Guid Id);

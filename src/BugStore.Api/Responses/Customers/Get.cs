@@ -1,6 +1,3 @@
 namespace BugStore.Responses.Customers;
 
-public class Get
-{
-    
-}
+public record Get(Guid Id, string Name, string Email, string Phone, DateTime BirthDate);

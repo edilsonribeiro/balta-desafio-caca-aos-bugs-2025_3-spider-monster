@@ -1,6 +1,3 @@
 namespace BugStore.Responses.Products;
 
-public class Create
-{
-    
-}
+public record Create(Guid Id, string Title, string Description, string Slug, decimal Price);

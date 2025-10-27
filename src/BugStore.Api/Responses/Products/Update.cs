@@ -1,6 +1,3 @@
 namespace BugStore.Responses.Products;
 
-public class Update
-{
-    
-}
+public record Update(Guid Id, string Title, string Description, string Slug, decimal Price);
